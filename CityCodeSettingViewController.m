@@ -12,7 +12,6 @@
 
 #define ID_TAG_SWITCH       1101    // 开关按钮ID
 2222
-33
 @implementation CityCodeSettingViewController
 
 @synthesize isCallIN;
