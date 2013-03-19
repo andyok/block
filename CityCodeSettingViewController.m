@@ -5,7 +5,7 @@
 //  Created by Lenya Han on 4/19/12.
 //  Copyright (c) 2012 D-TONG-TELECOM. All rights reserved.
 //
-1111111111
+
 #import "CityCodeSettingViewController.h"
 #import "PhoneNumberAttribution.h"
 #import "fontConfig.h"
